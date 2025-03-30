@@ -1,0 +1,13 @@
+🔍 Sales Performance Analysis – Identify total revenue, growth trends, and compare against targets.
+
+📊 Regional Sales Insights – Understand which regions contribute the most to sales and where improvements are needed.
+
+🛒 Product Category Breakdown – Analyze top-performing and underperforming products to optimize inventory and marketing strategies.
+
+👥 Customer Demographics & Behavior – Examine customer segmentation, purchase patterns, and retention rates.
+
+📅 Time-Series Trends – Detect seasonal fluctuations and predict future sales trends.
+
+📈 Profitability & Margins – Assess profit margins across different products and regions to maximize revenue.
+
+🎯 Conversion Rate Analysis – Evaluate how leads and visits translate into actual sales and identify improvement areas.
