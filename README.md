@@ -9,13 +9,13 @@ The Real-Time Sales Analytics Dashboard is a Power BI project designed to provid
 
 ## Features
 
-- **📊 Interactive Visualizations – Engage with dynamic charts and graphs for in-depth data exploration.
+- 📊 Interactive Visualizations – Engage with dynamic charts and graphs for in-depth data exploration.
 
-- **⏳Real-Time Data Updates – The dashboard refreshes periodically to display the latest information.
+- ⏳Real-Time Data Updates – The dashboard refreshes periodically to display the latest information.
 
-- **🎛️Customizable Filters – Apply filters to analyze data by regions, products, time frames, and more.
+- 🎛️Customizable Filters – Apply filters to analyze data by regions, products, time frames, and more.
 
-- **🔍Drill-Through Capabilities – Dive deeper into data points for granular insights and trend identification.
+- 🔍Drill-Through Capabilities – Dive deeper into data points for granular insights and trend identification.
 
 
 ![Screenshot 2025-03-30 202539](https://github.com/user-attachments/assets/c183154d-128a-4b15-9706-4afd74821e43)
@@ -24,10 +24,11 @@ The Real-Time Sales Analytics Dashboard is a Power BI project designed to provid
 
 The dashboard integrates data from multiple sources, including:
 
-- **Sales Database:** Contains transactional data detailing sales figures, customer information, and product details.
-- **Customer Relationship Management (CRM) System:** Provides insights into customer interactions, feedback, and support tickets.
-- **Web Analytics Platform:** Tracks online user behavior, traffic sources, and conversion rates.
+- 💰Sales Database – Stores transactional data, including sales figures, customer details, and product information.
 
+- 🤝Customer Relationship Management (CRM) System – Provides insights into customer interactions, feedback, and support tickets.
+
+- 🌐Web Analytics Platform – Tracks online user behavior, traffic sources, and conversion rates.
 ## Data Transformation and Modeling
 
 Data from the aforementioned sources undergoes a series of transformation steps:
