@@ -9,10 +9,13 @@ The Real-Time Sales Analytics Dashboard is a Power BI project designed to provid
 
 ## Features
 
-- **Interactive Visualizations:** Engage with dynamic charts and graphs that allow for in-depth data exploration.
-- **Real-Time Data Updates:** The dashboard refreshes data periodically to ensure the most current information is displayed.
-- **Customizable Filters:** Users can apply various filters to view data specific to regions, products, time frames, and more.
-- **Drill-Through Capabilities:** Dive deeper into data points for granular analysis and uncover underlying factors.
+- **📊 Interactive Visualizations – Engage with dynamic charts and graphs for in-depth data exploration.
+
+- **⏳Real-Time Data Updates – The dashboard refreshes periodically to display the latest information.
+
+- **🎛️Customizable Filters – Apply filters to analyze data by regions, products, time frames, and more.
+
+- **🔍Drill-Through Capabilities – Dive deeper into data points for granular insights and trend identification.
 
 
 ![Screenshot 2025-03-30 202539](https://github.com/user-attachments/assets/c183154d-128a-4b15-9706-4afd74821e43)
