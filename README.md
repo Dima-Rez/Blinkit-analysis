@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-Special thanks to [Author Name] for the insightful walkthrough in the [Amazing Real Time Power BI Project | Start to End Analysis](https://www.youtube.com/watch?v=mmxVCFceQgU) video, which served as the foundation for this project.
+Special thanks to @ZeroAnalyst for the insightful walkthrough in the [Amazing Real Time Power BI Project | Start to End Analysis](https://www.youtube.com/watch?v=mmxVCFceQgU) video, which served as the foundation for this project.
